@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mriansabado
 - 👀 I’m interested in Full-Stack programming
 - 🌱 I’m currently learning Python, Vue, SQLite
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mriansabado@gmail.com
 
 <!---
