@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mriansabado
-- 🖥 I’m a in Full-Stack Developer
+- 🖥 I’m a Full-Stack Developer
 - 📫 How to reach me mriansabado@gmail.com
 
 <!---
